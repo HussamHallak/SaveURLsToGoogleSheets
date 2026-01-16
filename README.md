@@ -37,6 +37,6 @@ Resume: When you run it again, it will detect the progress file and ask if you w
 
 File Structure:
 ├── script.py (Source code)
-├── credentials.json (downloaded from Google Sheets API)
-├── urls.txt (input file)
-└── token.json (This file will be created after first run)
+├── credentials.json (Credentials are saved here. This file is downloaded from Google Sheets API)
+├── urls.txt (The input file)
+└── token.json (This file stores the user's access and refresh tokens. It will be created after first run)
