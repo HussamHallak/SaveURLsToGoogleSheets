@@ -34,3 +34,9 @@ First Run: The script will create sheets normally
 On failure: It saves progress and you can run it again
 
 Resume: When you run it again, it will detect the progress file and ask if you want to resume
+
+File Structure:
+├── script.py (Source code)
+├── credentials.json (downloaded from Google Sheets API)
+├── urls.txt (input file)
+└── token.json (This file will be created after first run)
