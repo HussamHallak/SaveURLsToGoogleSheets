@@ -41,6 +41,15 @@ Example:
 
 How to use the script:
 
+Clone this repository and place the input file in the same folder as script.py
+
+Open script.py, go to the main function, and edit the configuration variables:
+input file name, sheet base name, and number of URLs per sheet (if necessary)
+
+<img width="910" height="172" alt="image" src="https://github.com/user-attachments/assets/c25d9adb-fc4b-418c-a581-8059f22e9dd6" />
+
+
+
 First Run: The script will create sheets normally
 
 On failure: It saves progress and you can run it again
