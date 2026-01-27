@@ -79,4 +79,6 @@ Files:
 
 ├── urls.txt (The input file)
 
+├── progress.json (This file saves the progress of the script. It is created and editted automatically wheile running the script)
+
 └── token.json (This file stores the user's access and refresh tokens. It will be created after first run)
