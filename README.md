@@ -60,7 +60,7 @@ On failure: It saves progress and you can run it again
 
 Resume: When you run it again, it will detect the progress file and ask if you want to resume
 
-File Structure:
+Files:
 
 ├── script.py (Source code)
 
