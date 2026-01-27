@@ -1,5 +1,7 @@
 # Save URLs To Google Sheets
-Create Google Sheets and populate them with URLs saved in a text file
+This scripts create Google Sheets and populates them with URLs saved in an input file (text file)
+
+#To begin:
 
 1. Install required packages:
 
@@ -12,6 +14,9 @@ Go to Google Cloud Console: https://console.cloud.google.com/
 Create a new project or select an existing one
 
 Enable the Google Sheets API: https://console.cloud.google.com/apis/api/sheets.googleapis.com/
+
+<img width="739" height="458" alt="image" src="https://github.com/user-attachments/assets/f5b2b24f-6565-413f-85cc-9f5f8c32a8bf" />
+
 
 Create credentials (OAuth 2.0 Client ID) for a desktop application
 
