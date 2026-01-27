@@ -48,18 +48,24 @@ Clone this repository and place the input file in the same folder as script.py
 Open script.py, go to the main function, and edit the configuration variables:
 input file name, sheet base name, and number of URLs per sheet (if necessary)
 
-<img width="910" height="172" alt="image" src="https://github.com/user-attachments/assets/c25d9adb-fc4b-418c-a581-8059f22e9dd6" />
-
-
+<img width="474" height="158" alt="image" src="https://github.com/user-attachments/assets/d8be6d08-45ea-467b-b6d1-e40da023ed4e" />
 
 First Run: The script will create sheets normally
+
+Navigate to script.py and run it
+
+<img width="442" height="842" alt="image" src="https://github.com/user-attachments/assets/25120656-a43e-4b0d-b7cd-ada56a8926df" />
 
 On failure: It saves progress and you can run it again
 
 Resume: When you run it again, it will detect the progress file and ask if you want to resume
 
 File Structure:
+
 ├── script.py (Source code)
+
 ├── credentials.json (Credentials are saved here. This file is downloaded from Google Sheets API)
+
 ├── urls.txt (The input file)
+
 └── token.json (This file stores the user's access and refresh tokens. It will be created after first run)
