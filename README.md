@@ -1,7 +1,7 @@
 # Save URLs To Google Sheets
 This scripts create Google Sheets and populates them with URLs saved in an input file (text file)
 
-#To begin:
+To begin:
 
 1. Install required packages:
 
