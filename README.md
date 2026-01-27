@@ -7,7 +7,9 @@ To begin:
 
    pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
-2. Enable Google Sheets API
+   <img width="900" height="22" alt="image" src="https://github.com/user-attachments/assets/5d296a11-d971-4e64-9e85-df322441d132" />
+
+3. Enable Google Sheets API
 
 Go to Google Cloud Console: https://console.cloud.google.com/
 
