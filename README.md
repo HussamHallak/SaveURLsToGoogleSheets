@@ -37,10 +37,6 @@ Create the input file with your URLs, one per line:
 
 Example:
 
-https://www.example.com
-https://www.google.com
-https://www.github.com
-
 <img width="1177" height="429" alt="image" src="https://github.com/user-attachments/assets/98dcd1b1-74d9-4c5d-b1fa-28c7e0d6a147" />
 
 How to use the script:
