@@ -56,9 +56,20 @@ Navigate to script.py and run it
 
 <img width="442" height="842" alt="image" src="https://github.com/user-attachments/assets/25120656-a43e-4b0d-b7cd-ada56a8926df" />
 
+Output:
+
+The output of this script will be the files that are created in your Google Sheets.
+
+<img width="1051" height="792" alt="image" src="https://github.com/user-attachments/assets/a34ae0e2-2e19-4811-9801-7b7f0561d71f" />
+
+You can open the files and verify that it has been populated with the URLs.
+
+<img width="483" height="629" alt="image" src="https://github.com/user-attachments/assets/f96c232b-faba-4145-a6d8-4f2fabea2f13" />
+
 On failure: It saves progress and you can run it again
 
 Resume: When you run it again, it will detect the progress file and ask if you want to resume
+
 
 Files:
 
