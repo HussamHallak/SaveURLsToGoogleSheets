@@ -17,10 +17,19 @@ Enable the Google Sheets API: https://console.cloud.google.com/apis/api/sheets.g
 
 <img width="739" height="458" alt="image" src="https://github.com/user-attachments/assets/f5b2b24f-6565-413f-85cc-9f5f8c32a8bf" />
 
+<img width="989" height="476" alt="image" src="https://github.com/user-attachments/assets/181931ba-12f6-4c8e-a31e-ddc3304cb58e" />
 
 Create credentials (OAuth 2.0 Client ID) for a desktop application
 
+<img width="841" height="464" alt="image" src="https://github.com/user-attachments/assets/7c14d916-5f23-406b-850f-768aae4e0c40" />
+
+<img width="738" height="616" alt="image" src="https://github.com/user-attachments/assets/bee6b3d5-c6fc-465c-9d3a-d987b337c004" />
+
+<img width="464" height="615" alt="image" src="https://github.com/user-attachments/assets/5a334639-08c1-4666-b9a6-4ea6d223d677" />
+
 Download the credentials file and rename it to credentials.json
+
+<img width="512" height="685" alt="image" src="https://github.com/user-attachments/assets/9329558e-4150-4b0a-a055-214b3ae7d4f8" />
 
 3. Prepare your URLs file
    
@@ -32,7 +41,9 @@ https://www.example.com
 https://www.google.com
 https://www.github.com
 
-How to Use:
+<img width="1177" height="429" alt="image" src="https://github.com/user-attachments/assets/98dcd1b1-74d9-4c5d-b1fa-28c7e0d6a147" />
+
+How to use the script:
 
 First Run: The script will create sheets normally
 
